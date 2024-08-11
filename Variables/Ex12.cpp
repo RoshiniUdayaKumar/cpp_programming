@@ -1,4 +1,4 @@
-//swap to numbers without using temp
+//swap two numbers without using temp
 #include <iostream>
 using namespace std;
 int main()
