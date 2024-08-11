@@ -1,4 +1,4 @@
-//swap to numbers without using temp
+//swap to numbers using standard swap function
 #include <iostream>
 #include <utility>
 using namespace std;
