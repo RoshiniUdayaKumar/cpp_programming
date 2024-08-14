@@ -72,3 +72,18 @@ Ex11:Program to display arithmetic operator using switch case.
 Ex12:C++ Program to Check Whether a Character is an Alphabet or not.
 
 Ex13:C++ Program to find if the entered year is a leap year.
+
+Loops
+
+Ex1:C++ Program to calculate sum of numbers from m to n.
+
+Ex2:C++ Program to print Fibonacci series up to 100.
+
+Ex3:C++ Program to input a number and then calculate sum of its digits.
+
+Ex4: C++ Program to find whether given number is a prime number or not.
+
+Ex5:C++ Program to display sum of series 1 + 1/2 + 1/3 + ... + 1/n.
+
+Ex6:C++ Program to display series and find sum of 1 + 3 + 5 + ... + n.
+
