@@ -71,8 +71,6 @@ Ex11:Program to display arithmetic operator using switch case.
 
 Ex12:C++ Program to Check Whether a Character is an Alphabet or not.
 
-Ex13:C++ Program to find if the entered year is a leap year.
-
 Loops
 
 Ex1:C++ Program to calculate sum of numbers from m to n.
@@ -87,3 +85,24 @@ Ex5:C++ Program to display sum of series 1 + 1/2 + 1/3 + ... + 1/n.
 
 Ex6:C++ Program to display series and find sum of 1 + 3 + 5 + ... + n.
 
+Numbers
+
+Ex1:Write a program to sum the series up to n (Input n).
+
+Ex2:C++ Program to Find GCD of Two Numbers.
+
+Ex3:C++ Program to Find LCM of Two Numbers.
+
+Ex4:C++ Program to Display Characters from A to Z Using Loop.
+
+Ex5:C++ Program to Reverse a Number.
+
+Ex6:C++ Program to Calculate the Power of a Number.
+
+Ex7:C++ Program to Count Number of Digits in an Integer.
+
+Ex8:C++ Program to Count Number of 1's in an integer.
+
+Ex9:C++ Program to find a leap year.
+
+Ex10:C++ Program to Check Whether a Number is Palindrome or Not.
