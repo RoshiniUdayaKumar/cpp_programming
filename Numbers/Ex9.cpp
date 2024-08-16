@@ -1,4 +1,4 @@
-//C++ Program to Count Number of 1's in an integer
+//C++ Program to find a leap year
 #include<iostream>
 using namespace std;
 int main()
