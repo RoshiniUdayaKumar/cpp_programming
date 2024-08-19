@@ -106,3 +106,20 @@ Ex8:C++ Program to Count Number of 1's in an integer.
 Ex9:C++ Program to find a leap year.
 
 Ex10:C++ Program to Check Whether a Number is Palindrome or Not.
+
+Functions
+
+Ex1:Write a program to calculate the area of a circle using functions.
+
+Ex2:Write a program to swap two values using functions.
+
+Ex3:C++ Program to Reverse a Sentence using recursion function.  
+
+Ex4:C++ Program to Reverse a string using the recursion function.
+
+Ex5:C++ Program to calculate the power using the recursion function.
+
+Ex6:Write a program to convert time to minutes using functions. (input 3 variables namely hours, minutes, and seconds. Convert everything into minutes.)
+Build a program for calculating the area and perimeter of various geometric shapes  using separate functions for each shape.
+
+Ex7:Simple Calculator Program: Create a program that acts as a basic calculator, allowing users to perform addition, subtraction, multiplication, and division. Use functions for each operation.
