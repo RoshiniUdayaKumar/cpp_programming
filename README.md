@@ -71,7 +71,7 @@ Ex11:Program to display arithmetic operator using switch case.
 
 Ex12:C++ Program to Check Whether a Character is an Alphabet or not.
 
-## Loops
+## Loops:
 
 Ex1:C++ Program to calculate sum of numbers from m to n.
 
@@ -85,7 +85,7 @@ Ex5:C++ Program to display sum of series 1 + 1/2 + 1/3 + ... + 1/n.
 
 Ex6:C++ Program to display series and find sum of 1 + 3 + 5 + ... + n.
 
-## Numbers
+## Numbers:
 
 Ex1:Write a program to sum the series up to n (Input n).
 
@@ -107,7 +107,7 @@ Ex9:C++ Program to find a leap year.
 
 Ex10:C++ Program to Check Whether a Number is Palindrome or Not.
 
-## Functions
+## Functions:
 
 Ex1:Write a program to calculate the area of a circle using functions.
 
@@ -125,4 +125,4 @@ Build a program for calculating the area and perimeter of various geometric shap
 Ex7:Simple Calculator Program: Create a program that acts as a basic calculator, allowing users to perform addition, subtraction, multiplication, and division. Use functions for each operation.
 
 ## Why this repository?
-I believe C++ is fundamental for any individual to master. I made this repository to help individuals who start learning C++. Also, for me to refer for my interview preparations. 😉
+I believe C++ is fundamental for any individual to master. I made this repository to help individuals who start learning C++. Also, I would like to refer to this for my interview preparations. 😉
